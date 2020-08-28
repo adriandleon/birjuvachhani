@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Birju Vachhani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**BirjuVachhani/birjuvachhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Whitelabel Flutter Project.
+- 🌱 I’m currently learning so many things including how to play Counter Strike.
+- 💬 Ask me about Android and Flutter.
+- 😄 Pronouns: he | his
+- ⚡ Fun fact: Cats will rule this world one day!
 
-Here are some ideas to get you started:
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-beta.vercel.app/api/spotify)](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me on Internet:
+
+[<img align="left" alt="birjuvachhani.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="birjuvachhani | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="birjuvachhani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="birjuvachhani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="birjuvachhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://birjuvachhani.dev
+[stackoverflow]: https://stackoverflow.com/users/9199362/birju-vachhani?tab=profile
+[twitter]: https://twitter.com/birjuvachhani
+[instagram]: https://instagram.com/birjuvachhani
+[linkedin]: https://www.linkedin.com/in/birju-vachhani-56b700147/
