@@ -9,7 +9,7 @@
 - 😄 Pronouns: he | his
 - ⚡ Fun fact: Cats will rule this world one day!
 
-### Spotify Playing 🎧
+### Spotify 🎧
 [<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Birju Vachhani Spotify Playing" width="350" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
 
 ### Me on Internet:
