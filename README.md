@@ -1,5 +1,7 @@
 ### Hi, I'm [Birju Vachhani](https://birjuvachhani.dev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![](https://komarev.com/ghpvc/?username=birjuvachhani&color=brightgreen&style=flat)
+
 - 🔭 I’m currently working on White-label Flutter Project, Flutter Web and Flutter Desktop.
 - 🌱 I’m currently learning so many things.
 - 🎮 I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) and [Assassin's Creed 3 Remastered](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed-3-remastered)
