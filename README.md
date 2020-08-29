@@ -34,6 +34,10 @@
 </div>
 
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Tech Stack:
 
 [<img align="left" alt="birjuvachhani | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][pub]
