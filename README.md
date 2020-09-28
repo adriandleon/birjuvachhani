@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=birjuvachhani&color=brightgreen&style=flat)
 
-- 🔭 I’m currently working on White-label Flutter Project, Flutter Web and Flutter Desktop.
-- 🌱 I’m currently learning so many things.
-- 🎮 I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) and [Assassin's Creed 3 Remastered](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed-3-remastered)
-- 💬 Ask me about Android and Flutter.
-- 😄 Pronouns: he | his
-- ⚡ Fun fact: Cats will rule this world one day!
+- 🔭 &nbsp;&nbsp; I’m currently working on White-label Flutter Project, Flutter Web and Flutter Desktop.
+- 🌱 &nbsp;&nbsp; I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose).
+- 🎮 &nbsp;&nbsp; I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/), [Assassin's Creed 4 Black Flag](https://www.ubisoft.com/en-us/game/assassins-creed-iv-black-flag/) and [NFS Payback](https://www.ea.com/en-gb/games/need-for-speed/need-for-speed-payback)
+- 💬 &nbsp;&nbsp; Ask me about Android and Flutter.
+- 😄 &nbsp;&nbsp; Pronouns: he | his
+- ⚡ &nbsp;&nbsp; Fun fact: Cats will rule this world one day!
 
 ### Spotify 🎧
 [<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Birju Vachhani Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
